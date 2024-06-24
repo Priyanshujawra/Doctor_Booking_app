@@ -55,9 +55,9 @@ Clone the Repository:
 
 ```bash
 
-git clone https://github.com/your-github-username/your-repository-name.git
+[git clone https://github.com/your-github-username/your-repository-name.git](https://github.com/Priyanshujawra/Doctor_Booking_app.git)
 
-cd Doctor-Opointment-system
+cd Doctor-Opointment-app
 ```
 
 ```bash
@@ -89,7 +89,7 @@ Since the node_modules folder is not included, you need to install the dependenc
 
 ```bash
 npm install
-cd HEALTH-PLUS-MAIN
+cd Doctor-Opointment-app
 ```
 
 ```bash
