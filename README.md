@@ -28,6 +28,21 @@ React-Toastify
 React Router DOM
 FontAwesomeIcon
 ```
+# Output 
+### landing page
+![Screenshot (15)](https://github.com/Priyanshujawra/Doctor_Booking_app/assets/109659772/0d2e3c01-c958-4cd7-86f9-a25b13ee01fb)
+
+### Doctor card page
+![Screenshot (16)](https://github.com/Priyanshujawra/Doctor_Booking_app/assets/109659772/59fabc9b-19ad-4b9e-85ce-1ff131ecc639)
+
+### Appointment cart 
+![Screenshot (17)](https://github.com/Priyanshujawra/Doctor_Booking_app/assets/109659772/abe6aeb1-fcf8-4212-b4cc-205c2ebe1a4d)
+
+### Appointment Form 
+![Screenshot (18)](https://github.com/Priyanshujawra/Doctor_Booking_app/assets/109659772/94d2f41d-c269-422d-b8e3-71234fe90738)
+
+### Doctor Profile page
+![Screenshot (19)](https://github.com/Priyanshujawra/Doctor_Booking_app/assets/109659772/fc9d5319-51e5-4bb0-9a81-5e54a47125a0)
 
 ## Installation Guide
 
