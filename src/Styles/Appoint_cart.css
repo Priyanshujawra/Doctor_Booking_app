@@ -1,0 +1,99 @@
+.content_cart_set {
+  width: 100%;
+  height: 380px;
+  display: flex;
+  background: url("../Assets/breadcrumb_bg.jpg");
+  background-size: 100% 400px;
+}
+.container_overlay_c {
+  width: 100%;
+  color: white;
+
+  background: #37205769;
+  padding: 100px;
+}
+.cart_title {
+  font-size: 5rem;
+}
+.size_discr {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  font-size: 25px;
+  padding: 10px;
+}
+.table_container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1300px;
+  margin: auto;
+  /* border-bottom: 1px solid #ccc; */
+  padding: 10px 0;
+}
+
+.list_of_item_cart {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px;
+  box-shadow: 2px 3px 14px #c4c4c4;
+  margin: 0;
+}
+
+.list_of_item_cart li {
+  list-style: none;
+  width: 14.28%;
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: bold;
+}
+.list_of_item_cart li button {
+  padding: 10px;
+  background-color: red;
+  border: none;
+  border-radius: 10px;
+  color: white;
+}
+
+.appointment_item {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.remove_button {
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.list_ofname {
+  text-transform: capitalize;
+}
+.set_style {
+  margin: 40px;
+  padding: 30px 0px;
+}
+
+@media screen and (max-width: 900px) {
+  .display_none {
+    display: none;
+  }
+  .list_of_item_cart {
+    flex-direction: column;
+  }
+  .list_of_item_cart li {
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+  }
+  .cart_title {
+    font-size: 2.2rem;
+  }
+  .size_discr {
+    font-size: 20px;
+  }
+}
